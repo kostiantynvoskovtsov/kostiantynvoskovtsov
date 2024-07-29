@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning J.Angrist's book 'Mastering Metrics'
 - 💞️ I’m looking to collaborate on databse-related/software-engineering projects.
 - 📫 How to reach me kvoskovtsov@gmail.com
-- ⚡ Fun fact: we might somehow met
+- ⚡ Fun fact: we might met someday somehow
 
 <!---
 kostiantynvoskovtsov/kostiantynvoskovtsov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
