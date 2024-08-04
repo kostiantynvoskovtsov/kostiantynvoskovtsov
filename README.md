@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kostiantynvoskovtsov
 - 👀 I’m passionate about all the things data is 📊
-- 🌱 I’m currently working thru "Mastering 'Metrics" book by J.Angrist, as I dreamed to read it for many years, and finally have time.
+- 🌱 I’m currently working thru "Mastering 'Metrics" book by J.Angrist.
 - 💞️ I’m looking to collaborate on solutions creation, leveraging the power of data science.
 - 📫 How to reach me kvoskovtsov@gmail.com
 - ⚡ Fun fact: we might met someday somehow
