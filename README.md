@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kostiantynvoskovtsov
 - 👀 I’m passionate about all the things data is 📊
-- 🌱 I’m currently working on data pipeline project.
+- 🌱 I’m currently working on Olymic games data pipeline project.
 - 💞️ I’m looking to collaborate on solutions creation, leveraging the power of data.
 - 📫 How to reach me kvoskovtsov@gmail.com
 - ⚡ Fun fact: we might met somehow someday 
