@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kostiantynvoskovtsov
-- 💞️ I’m looking to collaborate on solutions creation, leveraging the power of data.
+- 💞️ I’m looking to leverage the power of data for growth of your business.
 - 📫 How to reach me kvoskovtsov@gmail.com
 - ⚡ Fun fact: we might met somehow someday 
 
