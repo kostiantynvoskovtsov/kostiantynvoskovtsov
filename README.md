@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kostiantynvoskovtsov
-- 💞️I’m looking forward to help your company with advanced analytics, leveraging my database expertise.
+- 💞️I’m looking forward to leverage database expertise and help your company sky-rocket database infrastructure.
 - 📫 How to reach me kvoskovtsov@gmail.com
 - ⚡ Fun fact: we might met somehow someday 
 
