@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kostiantynvoskovtsov
-- 💞️ I’m looking forward to leverage user-centric & analytical thinking to sky-rocket product-related decision-making.
+- 💞️ I’m looking forward to leverage user-centric & analytical thinking to sky-rocket database performance.
 - 📫 How to reach me kvoskovtsov@gmail.com
 - ⚡ Fun fact: we might met somehow someday 
 
