@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kostiantynvoskovtsov
-- 💞️ I’m looking forward to leverage user-centric & analytical thinking to sky-rocket deision making at your company.
+- 💞️ I’m looking to work on smth great.
 - 📫 How to reach me kvoskovtsov@gmail.com
 - ⚡ Fun fact: we might met somehow someday 
 
