@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kostiantynvoskovtsov
-- 💞️ I’m looking to work on smth great.
+- 💞️ I’m eager to colab with audio production🎧 and film making 🎬 companies.
 - 📫 How to reach me kvoskovtsov@gmail.com
 - ⚡ Fun fact: we might met somehow someday 
 
