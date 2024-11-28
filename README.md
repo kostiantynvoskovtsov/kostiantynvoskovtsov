@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kostiantynvoskovtsov
-- 💞️ I’m eager to colab with audio production🎧 and film making 🎬 companies.
-- 📫 How to reach me kvoskovtsov@gmail.com
+- 💞️ I’m eager to colab on smth great
 - ⚡ Fun fact: we might met somehow someday 
 
 <!---
