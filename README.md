@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kostiantynvoskovtsov
-- 💞️ I’m eager to colab on smth great
+- 💞️ I’m eager to leverage number crunching, as well as Python, R & SQL programming skills, to colab on smth great
 - ⚡ Fun fact: we might met somehow someday 
 
 <!---
