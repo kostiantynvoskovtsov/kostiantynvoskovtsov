@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kostiantynvoskovtsov
-- 💞️ Iknow a bit of a programming, and have a few fun projects.
+- 💞️ I know a bit of a programming, and have a few fun projects.
 - ⚡ Fun fact: we might met somehow someday 
 
 <!---
