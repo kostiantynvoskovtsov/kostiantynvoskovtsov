@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kostiantynvoskovtsov
-- 💞️ I’m eager to leverage expertise in Python, R, Excel & SQL skills, to colab on smth great
+- 💞️ Iknow a bit of a programming, and have a few fun projects.
 - ⚡ Fun fact: we might met somehow someday 
 
 <!---
